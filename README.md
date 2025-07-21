@@ -1,4 +1,4 @@
-# Flashy-French-English-Flashcard-App
+# French-English-Flashcard-App
 <h2>This is a Tkinter-based GUI application that helps users learn French vocabulary through flashcards. <br>
   Each flashcard displays a French word, and after a short delay (3 seconds), it flips to show the English translation.</h2><br>
 <h3>File/Folder Structure:</h3>
